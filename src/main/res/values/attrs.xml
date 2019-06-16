@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardView">
+        <attr name="size" format="dimension" />
+        <attr name="suit" format="integer" />
+        <attr name="figure" format="integer" />
+        <attr name="show" format="boolean" />
+    </declare-styleable>
+</resources>

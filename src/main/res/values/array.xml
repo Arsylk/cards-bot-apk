@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="heart_cards">
+        <item>@drawable/heart_1</item>
+        <item>@drawable/heart_2</item>
+        <item>@drawable/heart_3</item>
+        <item>@drawable/heart_4</item>
+        <item>@drawable/heart_5</item>
+        <item>@drawable/heart_6</item>
+        <item>@drawable/heart_7</item>
+        <item>@drawable/heart_8</item>
+        <item>@drawable/heart_9</item>
+        <item>@drawable/heart_10</item>
+        <item>@drawable/heart_11</item>
+        <item>@drawable/heart_12</item>
+        <item>@drawable/heart_13</item>
+    </integer-array>
+    <integer-array name="spade_cards">
+        <item>@drawable/spade_1</item>
+        <item>@drawable/spade_2</item>
+        <item>@drawable/spade_3</item>
+        <item>@drawable/spade_4</item>
+        <item>@drawable/spade_5</item>
+        <item>@drawable/spade_6</item>
+        <item>@drawable/spade_7</item>
+        <item>@drawable/spade_8</item>
+        <item>@drawable/spade_9</item>
+        <item>@drawable/spade_10</item>
+        <item>@drawable/spade_11</item>
+        <item>@drawable/spade_12</item>
+        <item>@drawable/spade_13</item>
+    </integer-array>
+    <integer-array name="diamond_cards">
+        <item>@drawable/diamond_1</item>
+        <item>@drawable/diamond_2</item>
+        <item>@drawable/diamond_3</item>
+        <item>@drawable/diamond_4</item>
+        <item>@drawable/diamond_5</item>
+        <item>@drawable/diamond_6</item>
+        <item>@drawable/diamond_7</item>
+        <item>@drawable/diamond_8</item>
+        <item>@drawable/diamond_9</item>
+        <item>@drawable/diamond_10</item>
+        <item>@drawable/diamond_11</item>
+        <item>@drawable/diamond_12</item>
+        <item>@drawable/diamond_13</item>
+    </integer-array>
+    <integer-array name="club_cards">
+        <item>@drawable/club_1</item>
+        <item>@drawable/club_2</item>
+        <item>@drawable/club_3</item>
+        <item>@drawable/club_4</item>
+        <item>@drawable/club_5</item>
+        <item>@drawable/club_6</item>
+        <item>@drawable/club_7</item>
+        <item>@drawable/club_8</item>
+        <item>@drawable/club_9</item>
+        <item>@drawable/club_10</item>
+        <item>@drawable/club_11</item>
+        <item>@drawable/club_12</item>
+        <item>@drawable/club_13</item>
+    </integer-array>
+</resources>
